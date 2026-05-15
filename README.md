@@ -1,26 +1,33 @@
-# 👨‍💻 Tariq Ali Dev
+# 👩‍💻 Kanwal Imran
 
-### Frontend Developer | HTML • CSS • JavaScript • Bootstrap
+### Frontend Web Developer | HTML • CSS • JavaScript • Bootstrap
 
-Hi! I'm **Tariq Ali**, a passionate frontend developer with strong skills in building responsive and user-friendly websites using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. I love crafting beautiful, functional web interfaces and can create all types of websites — from simple static pages to fully responsive and interactive designs.
+Hi! I'm **Kanwal Imran**, a passionate frontend web developer who loves creating modern, responsive, and user-friendly websites. I enjoy turning creative ideas into beautiful and functional web experiences using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
+
+I focus on building clean UI designs, smooth user experiences, and fully responsive websites that work perfectly on all devices.
 
 ---
 
 ## 🛠️ What I Can Do
 
-- Build responsive websites using modern web standards
-- Create pixel-perfect UI designs
-- Add interactivity with JavaScript
-- Develop websites with Bootstrap for faster design
-- Ensure cross-browser and mobile compatibility
+- Build responsive and modern websites
+- Create clean and attractive UI/UX designs
+- Add dynamic functionality using JavaScript
+- Develop fast and mobile-friendly layouts
+- Use Bootstrap for responsive web design
+- Optimize websites for different screen sizes
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Technologies I Use
 
-- 📧 Email: digitaltariq97@gmail.com  
-- 💻 GitHub: [github.com/TariqAli97/Tariq-Ali](https://github.com/TariqAli97/Tariq-Ali)
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+- Git & GitHub
 
 ---
 
-> *“Code is not just code, it’s an experience.”*
+> *“Design. Develop. Deliver.”*
